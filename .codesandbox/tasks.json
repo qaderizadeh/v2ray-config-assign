@@ -8,6 +8,10 @@
       "name": "whereis htop",
       "command": "whereis htop",
       "runAtStart": true
+    },
+    "/bin/bash": {
+      "name": "bash",
+      "command": "/bin/bash"
     }
   }
 }
